@@ -1,20 +1,22 @@
 # data-analyst-project
 
-Amazon India — Executive Sales & Profitability Dashboard. Project Overview: 
+**Amazon India — Executive Sales & Profitability Dashboard**
+
+**Project Overview:**
 
 This project was developed as part of the Sapphire IQ Data Analyst Internship. The primary goal is to design an executive-level, non-technical interactive dashboard in Microsoft Excel for business stakeholders (Manoj & Manager Ravi). The dashboard synthesizes 10,000 transactional records (Jan 2024 – Aug 2026) to track revenue drivers, profitability, order fulfillment health, customer payment behavior, and geographic performance.   
 
-Business Problem & Requirements: Management required a unified reporting view to monitor performance without navigating raw dataset complexity.
+**Business Problem & Requirements:** Management required a unified reporting view to monitor performance without navigating raw dataset complexity.
 
-Key business objectives addressed include:
+**Key Business Objectives:**
 
-Overall Performance: Evaluating revenue, net profit, average basket size, and overall profit margin trends over time.
+**Overall Performance:** Evaluating revenue, net profit, average basket size, and overall profit margin trends over time.
 
-Category & Product Drivers: Identifying high-margin categories and top-performing SKUs to optimize inventory allocation.
+**Category & Product Drivers:** Identifying high-margin categories and top-performing SKUs to optimize inventory allocation.
 
-Order Status & Revenue Loss: Tracking order fulfillment success rates and quantifying revenue leakage from cancellations and returns.
+**Order Status & Revenue Loss:** Tracking order fulfillment success rates and quantifying revenue leakage from cancellations and returns.
 
-Channel & Geographic Insights: Analyzing performance across fulfillment modes, payment options, and regional states.
+**Channel & Geographic Insights:** Analyzing performance across fulfillment modes, payment options, and regional states.
 
 **Key Performance Indicators (Jan 2024 – Aug 2026):**
 
@@ -46,19 +48,21 @@ Channel & Geographic Insights: Analyzing performance across fulfillment modes, p
 
 **Top 5 Products by Sales:**
 
-(A)**Laptop Backpack **— ₹ 26.53 M
+(A) **Laptop Backpack **— ₹ 26.53 M
 
-(B)**Power Bank 20000mAh** — ₹ 25.55 M
+(B) **Power Bank 20000mAh** — ₹ 25.55 M
 
 (C) **5 G Smartphone** — ₹ 24.33 M
 
 (D) **Wireless Earbuds** — ₹ 23.85 M
 
-(E) **Smartwatch **— ₹23.31M3
+(E) **Smartwatch**— ₹23.31M3
 
 **Order Status & Revenue Loss Fulfillment Efficiency:** 81.47% (8,147) of orders were successfully delivered, and 8.68% (868) are currently in transit (shipped).
 
-**Revenue Leakage:** Cancellation Rate: 5.00% (500 orders).
+**Revenue Leakage:** 
+
+**Cancellation Rate:** 5.00% (500 orders).
 
 **Return Rate:** 4.85% (485 orders).
 
